@@ -1,5 +1,5 @@
 - 👋 Hi, I’m rizaldi
-- 👀 I’m currently interested in web app development. I also want to learn mobile app development
+- 👀 I’m currently interested in web development. I also want to learn mobile app development
 - 🌱 I’m currently learning html,css,js, and kotlin
 - 📫 Contact me on email : rnur71@gmail.com
 
