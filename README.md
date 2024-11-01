@@ -1,5 +1,5 @@
 - 👋 Hi, I’m rizaldi
-- 👀 Currently doing somethings.
+- 👀 Currently doing some things.
 
 <!---
 rizaldinur/rizaldinur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
